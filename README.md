@@ -23,3 +23,6 @@ My name is Matt Stropkey.  I have a computer science degree from the University 
 
 ## Contact 
 If you have any questions or want to contact me, feel free to reach out to me at mas682@pitt.edu or on [LinkedIn](https://www.linkedin.com/in/matthew-stropkey-884b417a/).  I would love to get back some constructive feedback on anything I've worked on as well as collaberate with other developers on projects they are working on.  Thanks for taking a look around!
+
+### Note:
+I uploaded most of my school projects at the same time as I had previously had them in private repositories that I did not want to make public as I did not want anyone who is still attending Pitt to be able to easily find them and reuse them.  I also did not make great utilization of the readme files in most of my school projects but I am going to try to update them as I get time to make them more understandable.
